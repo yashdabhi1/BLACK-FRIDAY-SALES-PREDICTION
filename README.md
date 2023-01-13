@@ -1,7 +1,7 @@
 Dataset Description
 
 
-This dataset comprises of sales transactions captured at a retail store. It’s a classic dataset to explore and expand your feature engineering skills and day to day understanding from multiple shopping experiences. This is a regression problem, the idea and dataset is taken from AnalyticsVidhya where the project is a part of a hackathon.
+This dataset comprises of sales transactions captured at a retail store. It’s a classic dataset to explore and expand your feature engineering skills and day to day understanding from multiple shopping experiences. This is a regression problem.
 
 There are two datasets provided Train and Test; I will be using Train dataset for training using train-test split and the test dataset will be used as an input (set of independent variables) to predict the output (dependent variable -Purchase Amount)
 
